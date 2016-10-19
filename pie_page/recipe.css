@@ -1,0 +1,45 @@
+body{
+  background:white;
+  color:#404040;
+  text-size:11pt;
+  font-family:Georgia;
+}
+a{
+  color: #A4A400;
+}
+h1 ,h2, h3{
+  color: #A4A400;
+  background:#F0F0F0;
+  font-family:Lucida Sans Unicode;
+  text-aling:left;
+  font-size:18pt;
+  text-decoration: underline;
+}
+h1{
+  text-aling:center;
+  font-size:22pt;
+  font-weight:bold;
+}
+.uq{
+  font-style: italic;
+  background:#FFFFA8; 
+  margin:0em 3em;
+}
+.bor{
+  border-top: 1em 
+}
+.cr{
+  font-family:Courier New;
+}
+#p2{
+  text-indent: 2em;
+}
+#p3{
+  text-indent: 4em;
+}
+.change{
+  text-decoration:none;
+}
+.abr{
+  text-decoration:underline;
+}
